@@ -37,3 +37,13 @@ marquee{
     color: white;
     background-color: red;
 }
+.js-style{
+    margin:10px;
+    margin-left: 2px;
+    line-height: 1.5;
+    width:20%;
+}
+#row{
+    padding-left: 50px;
+    padding-right: 50px;
+}
